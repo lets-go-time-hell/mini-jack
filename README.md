@@ -1,2 +1,3 @@
 # 連打絡み難易度表
 sl0～st12相当の譜面で微縦連を練習できそうな譜面を集めた難易度表です。
+https://lets-go-time-hell.github.io/mini-jack/
